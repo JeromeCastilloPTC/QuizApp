@@ -130,7 +130,7 @@ const questions = [
     ],
   },
   {
-    category: "geography",
+    category: "the world",
     questions: [
       {
         question: "Which is the longest river in the world?",
@@ -390,7 +390,7 @@ const questions = [
     ],
   },
   {
-    category: "entertainment",
+    category: "movies & shows",
     questions: [
       {
         question: "Who won the Academy Award for Best Actor in 2022?",

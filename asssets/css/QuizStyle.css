@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: pink;
+  background: rgb(233, 77, 129);
 }
 .popup-container {
   position: fixed;
@@ -85,7 +85,7 @@ body {
   font-weight: 500;
   border-radius: 6px;
   background: #fff;
-  border: 1px solid plum;
+  border: 1px solid rgb(224, 35, 224);
   transition: 0.3s ease;
 }
 .config-option button.active {
@@ -106,7 +106,7 @@ body {
   color: #fff;
   border: none;
   font-weight: 500;
-  background: pink;
+  background: rgb(179, 42, 172);
   padding: 13px 25px;
   cursor: pointer;
   font-size: 1rem;
