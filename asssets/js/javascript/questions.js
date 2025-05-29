@@ -1,6 +1,6 @@
 const questions = [
   {
-    category: "programming",
+    category: "computer science & technology",
     questions: [
       {
         question: "What does HTML stand for?",
@@ -260,7 +260,7 @@ const questions = [
     ],
   },
   {
-    category: "mathematics",
+    category: "math",
     questions: [
       {
         question: "What is the square root of 144?",

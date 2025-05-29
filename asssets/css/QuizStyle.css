@@ -90,7 +90,7 @@ body {
 }
 .config-option button.active {
   color: palevioletred;
-  border-color: peachpuff;
+  border-color: rgb(241, 131, 218);
   background: #dfdafd;
 }
 .config-option button:hover,
